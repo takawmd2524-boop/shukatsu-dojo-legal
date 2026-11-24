@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "2026-11-24",
+  "cohorts": [
+    {
+      "gradYear": 2028,
+      "label": "28卒（2028年3月卒）",
+      "official": [
+        {
+          "key": "pr_start",
+          "date": "2027-03-01",
+          "title": "広報活動の開始（政府要請）",
+          "note": "卒業・修了年度に入る直前の3月1日以降。会社説明会やエントリー受付が正式に始まる日とされています。",
+          "sourceTitle": "厚生労働省「2027年度卒業・修了予定者の就職・採用活動日程」",
+          "sourceURL": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000184189_00002.html",
+          "checkedAt": "2026-11-24"
+        },
+        {
+          "key": "selection_start",
+          "date": "2027-06-01",
+          "title": "採用選考活動の開始（政府要請）",
+          "note": "卒業・修了年度の6月1日以降。面接などの選考を始める日とされています。実際にはこれより前に選考が進む企業も多くあります。",
+          "sourceTitle": "厚生労働省「2027年度卒業・修了予定者の就職・採用活動日程」",
+          "sourceURL": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000184189_00002.html",
+          "checkedAt": "2026-11-24"
+        },
+        {
+          "key": "offer_day",
+          "date": "2027-10-01",
+          "title": "正式な内定日（政府要請）",
+          "note": "卒業・修了年度の10月1日以降。それより前の約束は「内々定」と呼ばれます。",
+          "sourceTitle": "厚生労働省「2027年度卒業・修了予定者の就職・採用活動日程」",
+          "sourceURL": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000184189_00002.html",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "notes": [
+        {
+          "title": "専門活用型インターンシップの例外",
+          "body": "専門性の高い人材について、専門活用型インターンシップ（タイプ3の一部）に参加し、その後の採用選考を経た場合は、6月1日の選考開始時期にとらわれないとされています。対象になるかどうかは各企業の案内で確認してください。",
+          "sourceTitle": "厚生労働省「2027年度卒業・修了予定者の就職・採用活動日程」",
+          "sourceURL": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000184189_00002.html"
+        },
+        {
+          "title": "インターンシップの4類型",
+          "body": "タイプ1：オープン・カンパニー／タイプ2：キャリア教育／タイプ3：汎用的能力・専門活用型インターンシップ（就業体験あり。5日以上、専門活用型は2週間以上）／タイプ4：高度専門型インターンシップ。タイプ1・2は「インターンシップ」とは呼ばない整理です（産学協議会 2022年4月）。",
+          "sourceTitle": "東京労働局掲載 就職・採用活動に関する要請のポイント",
+          "sourceURL": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002650454.pdf"
+        }
+      ],
+      "monthlyGuide": [
+        {
+          "month": "2026-11",
+          "headline": "秋冬インターンと早期選考が動く時期",
+          "body": "目安です。マイナビの調査（2026年10月20〜31日、n=1,158）では、28卒の4〜9月のインターンシップ等の参加率は82.7%、10月単月では54.6%でした。適性検査は秋冬インターンや早期選考でも課されることがあります。",
+          "sources": [
+            {"title": "マイナビ 2028年卒 大学生キャリア意向調査（10月）", "url": "https://career-research.mynavi.jp/reserch/20261116_117044/"}
+          ]
+        },
+        {
+          "month": "2026-12",
+          "headline": "早期選考と冬インターンの時期",
+          "body": "目安です。適性検査の対策は「遅くとも12月から」とする就活メディアの解説があります。本選考の受検は3月の広報解禁後〜5月が山とされています。",
+          "sources": [
+            {"title": "ワンキャリア「SPIの対策はいつから」", "url": "https://www.onecareer.jp/articles/5358"}
+          ]
+        },
+        {
+          "month": "2027-01",
+          "headline": "早期選考が続く。本選考の準備も",
+          "body": "目安です。12〜2月の早期選考や冬のインターン選考でも適性検査が課されるとされています。受検の案内は急に届くことがあるので、届いたら期限を登録しておくと逆算できます。",
+          "sources": [
+            {"title": "ワンキャリア「SPIの対策はいつから」", "url": "https://www.onecareer.jp/articles/5358"}
+          ]
+        },
+        {
+          "month": "2027-02",
+          "headline": "広報解禁の直前",
+          "body": "目安です。ひとつ上の学年（27卒）では、3月1日時点の内々定率が46.0%でした（マイナビ 大学生キャリア意向調査）。政府の日程より前に選考が進む企業が多いことを示す数字で、時期は企業ごとに異なります。",
+          "sources": [
+            {"title": "マイナビ 2027年卒 大学生キャリア意向調査（3月1日）", "url": "https://career-research.mynavi.jp/reserch/20260311_108615/"}
+          ]
+        },
+        {
+          "month": "2027-03",
+          "headline": "3月1日 広報活動の開始",
+          "body": "政府要請では3月1日以降が広報活動の開始です。本選考の適性検査の受検は、3月の解禁後〜5月が山とされています（目安）。ESの締切と受検期限が重なりやすい時期です。",
+          "sources": [
+            {"title": "厚生労働省「2027年度卒業・修了予定者の就職・採用活動日程」", "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000184189_00002.html"},
+            {"title": "ワンキャリア「SPIの対策はいつから」", "url": "https://www.onecareer.jp/articles/5358"}
+          ]
+        },
+        {
+          "month": "2027-04",
+          "headline": "ES・適性検査・面接が重なる時期",
+          "body": "目安です。ひとつ上の学年（27卒）では、4月末時点の内々定率が72.7%でした（学情）。締切が同じ週に集まることがあるので、近い順に並べて確認してください。",
+          "sources": [
+            {"title": "学情 2027年卒 内々定率調査（4月末）", "url": "https://service.gakujo.ne.jp/wp-content/uploads/2026/05/27naiteiritsu0501.pdf"}
+          ]
+        },
+        {
+          "month": "2027-05",
+          "headline": "本選考の山場",
+          "body": "目安です。ひとつ上の学年（27卒）では、5月末時点の内々定率がマイナビ調査で76.4%、学情調査で77.7%でした。",
+          "sources": [
+            {"title": "マイナビ 2027年卒 内々定率", "url": "https://career-research.mynavi.jp/column/20260317_108783/"},
+            {"title": "学情 2027年卒 内々定率調査（5月末）", "url": "https://service.gakujo.ne.jp/wp-content/uploads/2026/06/27naiteiritsu0602.pdf"}
+          ]
+        },
+        {
+          "month": "2027-06",
+          "headline": "6月1日 採用選考活動の開始",
+          "body": "政府要請では6月1日以降が採用選考活動の開始です。ひとつ上の学年（27卒）では、6月1日時点の就職内定率が77.2%でした（リクルート 就職内定率調査）。",
+          "sources": [
+            {"title": "厚生労働省「2027年度卒業・修了予定者の就職・採用活動日程」", "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000184189_00002.html"},
+            {"title": "リクルート 就職内定率調査（2026年6月1日時点）", "url": "https://jbrc.recruit.co.jp/data/data20260904_4813.html"}
+          ]
+        },
+        {
+          "month": "2027-07",
+          "headline": "選考が続く時期",
+          "body": "目安です。ひとつ上の学年（27卒）では、6月末時点の内々定率が81.2%でした（マイナビ）。募集を続ける企業の日程は、各社の案内で確認してください。",
+          "sources": [
+            {"title": "マイナビ 2027年卒 内々定率", "url": "https://career-research.mynavi.jp/column/20260317_108783/"}
+          ]
+        },
+        {
+          "month": "2027-10",
+          "headline": "10月1日 正式な内定日",
+          "body": "政府要請では10月1日以降が正式な内定日です。",
+          "sources": [
+            {"title": "厚生労働省「2027年度卒業・修了予定者の就職・採用活動日程」", "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000184189_00002.html"}
+          ]
+        }
+      ],
+      "industryTendency": [
+        {"tag": "consulting", "label": "外資・コンサル", "range": "3年の夏〜冬に選考が進むことが多い（傾向）", "sources": []},
+        {"tag": "it", "label": "ITベンチャー", "range": "3年の秋〜冬から早期選考が多い（傾向）", "sources": []},
+        {"tag": "media", "label": "マスコミ", "range": "3年の冬〜4年の春に選考が多い（傾向）", "sources": []},
+        {"tag": "maker", "label": "メーカー", "range": "政府日程（3月広報・6月選考）に近い時期が多い（傾向）", "sources": []},
+        {"tag": "finance", "label": "金融", "range": "政府日程（3月広報・6月選考）に近い時期が多い（傾向）", "sources": []},
+        {"tag": "public", "label": "公務員", "range": "民間企業とは別の日程。試験案内で確認", "sources": []}
+      ]
+    },
+    {
+      "gradYear": 2029,
+      "label": "29卒（2029年3月卒）",
+      "official": [],
+      "officialPending": "29卒向けの政府要請はまだ公表されていません。例年どおりなら、広報3月1日・選考6月1日・内定10月1日（いずれも2028年）です。公表され次第、このデータを更新します。",
+      "notes": [],
+      "monthlyGuide": [
+        {
+          "month": "2026-11",
+          "headline": "まだ準備の時期",
+          "body": "目安です。ひとつ上の学年（28卒）では、4〜9月のインターンシップ等の参加率が82.7%でした（マイナビ、2026年10月調査）。夏のインターン選考は6〜8月が中心とされています。",
+          "sources": [
+            {"title": "マイナビ 2028年卒 大学生キャリア意向調査（10月）", "url": "https://career-research.mynavi.jp/reserch/20261116_117044/"}
+          ]
+        },
+        {
+          "month": "2027-04",
+          "headline": "夏インターンの応募準備",
+          "body": "目安です。インターン選考の適性検査は夏（6〜8月）が中心とされています。応募の締切が出たら登録しておくと逆算できます。",
+          "sources": [
+            {"title": "ワンキャリア「SPIの対策はいつから」", "url": "https://www.onecareer.jp/articles/5358"}
+          ]
+        },
+        {
+          "month": "2027-06",
+          "headline": "夏インターン選考の時期",
+          "body": "目安です。インターン選考でES・適性検査が課されることがあります。時期や内容は企業ごとに異なります。",
+          "sources": [
+            {"title": "ワンキャリア「SPIの対策はいつから」", "url": "https://www.onecareer.jp/articles/5358"}
+          ]
+        }
+      ],
+      "industryTendency": []
+    }
+  ],
+  "todoTemplates": {
+    "entry": [
+      {"daysBefore": 1, "title": "エントリーを済ませる"}
+    ],
+    "es": [
+      {"daysBefore": 7, "title": "設問を確認する"},
+      {"daysBefore": 4, "title": "下書きを書く"},
+      {"daysBefore": 2, "title": "見直す"},
+      {"daysBefore": 1, "title": "提出する"}
+    ],
+    "briefing": [
+      {"daysBefore": 1, "title": "場所（URL）と時刻を確認する"}
+    ],
+    "interview": [
+      {"daysBefore": 3, "title": "想定質問をメモする"},
+      {"daysBefore": 1, "title": "場所と時刻を確認する"}
+    ],
+    "internship": [
+      {"daysBefore": 1, "title": "持ち物と集合場所を確認する"}
+    ]
+  }
+}
